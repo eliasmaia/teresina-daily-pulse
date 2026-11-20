@@ -70,6 +70,8 @@ def _build_prompts(articles: List[Dict[str, str]]) -> tuple[str, str]:
         "dando atenção especial a ocorrências policiais graves, decisões judiciais, saúde, mobilidade e fatos de grande impacto local "
         "sem descartá-los em favor de notas menores. Mantenha também a cobertura de fatos interessantes do esporte, tanto local, quanto os de" \
         "grande importancia nacionalmente"
+        "7. SOBRIEDADE EM SEGURANÇA PÚBLICA: Ao noticiar crimes, homicídios ou acidentes, informe apenas o fato essencial "
+        "(ocorrência, local e atuação das autoridades). Evite descrições gráficas, cruéis ou sensacionalistas sobre a dinâmica da violência."
     )
 
     prompt = (
