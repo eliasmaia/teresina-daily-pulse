@@ -1,0 +1,1 @@
+# teresina-daily-pulse
