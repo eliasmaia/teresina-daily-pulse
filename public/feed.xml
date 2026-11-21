@@ -9,29 +9,29 @@
     <itunes:image href="https://eliasmaia.github.io/teresina-daily-pulse/cover.jpg" />
     <itunes:owner>
       <itunes:name>Elias Moraes</itunes:name>
-      <itunes:email>seu-email@dominio.com</itunes:email>
+      <itunes:email>eeliasmaia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Teresina Daily Pulse – sábado, 21 de novembro de 2026</title>
-      <description>Teresina Daily Pulse – sábado, 21 de novembro de 2026
+      <title>Teresina Daily Pulse: Desemprego no Piauí, Alerta de Tempestades e Destaques do Esporte e Cidadania</title>
+      <description>Teresina Daily Pulse: Desemprego no Piauí, Alerta de Tempestades e Destaques do Esporte e Cidadania
 
 Destaques desta edição:
-- [Economia] Desemprego e informalidade são maiores entre população preta e parda no Piauí (Estado do Piauí)
-- [Esporte] Atlético Piauiense anuncia Juliana Mojeszczyk como nova técnica da equipe feminina (Teresina)
-- [Cidade] Piauí em alerta de tempestade com risco de granizo (Estado do Piauí)
-- [Infraestrutura] Programa ProVerde ultrapassa 4 milhões de mudas distribuídas nos 224 municípios (Estado do Piauí)
-- [Segurança] Martinho Júlio de Araújo condenado a 28 anos por dois homicídios em Simões (Simões, Sul do Piauí)
-- [Segurança] Polícia Militar apreende motocicleta com indícios de adulteração em Pio IX (Pio IX)
-- [Infraestrutura] Curimatá receberá novo terminal rodoviário de 1.195 m² (Curimatá)
-- [Infraestrutura] Águas do Piauí inicia perfuração de poço para ampliar oferta de água em Itainópolis (Itainópolis)
-- [Saúde] Estações de tratamento de esgoto de Teresina lançam poluentes acima do permitido no Rio Poti (Teresina)</description>
-      <pubDate>Sat, 21 Nov 2026 17:30:45 +0000</pubDate>
+- [Economia] Pesquisa do IBGE aponta maior desemprego e informalidade entre população preta e parda no Piauí (Piauí)
+- [Segurança] Polícia Militar detém jovem suspeito de vender cocaína em banheiro de bar no Centro de Pio IX (Pio IX)
+- [Cidade] Associação Piauiense de Proteção e Amor aos Animais (Apipa) abriga mais de 300 animais e enfrenta custo mensal de R$ 100 mil (Teresina)
+- [Segurança] Jovem suspeita de tentar matar a mãe com 22 facadas será internada no Hospital Areolino de Abreu em Teresina (Rio Grande do Piauí)
+- [Infraestrutura] Governo do Piauí investe mais de R$ 1 milhão na construção de novo terminal rodoviário em Curimatá (Curimatá)
+- [Infraestrutura] Águas do Piauí inicia perfuração de novo poço para ampliar abastecimento na localidade Morro de Fátima (Itainópolis)
+- [Cidade] Programa ProVerde da Secretaria do Meio Ambiente e Recursos Hídricos atinge marca de 4 milhões de mudas distribuídas nos 224 municípios (Piauí)
+- [Cidade] Agência Municipal de Regulação de Serviços Públicos aponta falhas em estações de tratamento de esgoto e lançamento de poluentes no Rio Poti (Teresina)
+- [Cidade] Atlético Piauiense anuncia a contratação da técnica Juliana Mojeszczyk para comandar a equipe feminina (Piauí)</description>
+      <pubDate>Sat, 21 Nov 2026 18:04:11 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-21</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1338624" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1281600" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
