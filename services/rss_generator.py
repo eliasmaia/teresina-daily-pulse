@@ -9,6 +9,7 @@ def update_podcast_rss(
     episodes_dir: str = "public/episodes",
     feed_path: str = "public/feed.xml",
     base_url: str | None = None,
+    owner_email: str | None = None,
 ) -> str:
     """Gera ou atualiza o feed.xml do podcast a partir dos episódios salvos."""
     resolved_base_url = (
@@ -16,6 +17,12 @@ def update_podcast_rss(
         or os.getenv("PODCAST_BASE_URL")
         or "https://eliasmaia.github.io/teresina-daily-pulse"
     ).rstrip("/")
+
+    resolved_owner_email = (
+        owner_email
+        or os.getenv("PODCAST_OWNER_EMAIL")
+        or "seu-email@dominio.com"
+    )
 
     os.makedirs(episodes_dir, exist_ok=True)
     metadata_files = sorted(
@@ -62,6 +69,11 @@ def update_podcast_rss(
     <language>pt-BR</language>
     <description>Boletim diário automatizado com as principais notícias de Teresina e do Piauí.</description>
     <itunes:author>Elias Moraes</itunes:author>
+    <itunes:image href="{escape(resolved_base_url)}/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Elias Moraes</itunes:name>
+      <itunes:email>{escape(resolved_owner_email)}</itunes:email>
+    </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
