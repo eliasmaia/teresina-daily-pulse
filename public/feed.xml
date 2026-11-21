@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Teresina Daily Pulse</title>
+    <link>https://eliasmaia.github.io/teresina-daily-pulse</link>
+    <language>pt-BR</language>
+    <description>Boletim diário automatizado com as principais notícias de Teresina e do Piauí.</description>
+    <itunes:author>Elias Moraes</itunes:author>
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Teresina Daily Pulse - Sábado, 21 de novembro de 2026</title>
+      <description>Teresina Daily Pulse - Sábado, 21 de novembro de 2026
+
+Destaques desta edição:
+- [Economia] Pagamento do 13º salário injetará R$ 3,1 bilhões no Piauí (Teresina)
+- [Segurança] Polícia Militar prende suspeito de roubar colar e atirar em segurança (Vale Quem Tem)
+- [Economia] Preço do tomate cai na Ceasa, mas segue elevado (Teresina)
+- [Cidade] Flamengo-PI anuncia Almir Dionísio como novo executivo de futebol (Teresina)
+- [Segurança] Mototaxista é indiciado por homicídio duplamente qualificado (Ipiranga do Piauí)
+- [Política] OAB-PI cobra prioridade na liberação de alvarás para aposentados (Teresina)
+- [Cidade] Prefeitura regulamenta regimento interno da Corregedoria da Guarda Municipal (Teresina)
+- [Saúde] Monitor da Seca aponta melhoria no Sul, mas desafios persistem no estado (Piauí)
+- [Segurança] Justiça revoga prisão de suspeito em esquema de falsas operações financeiras (Teresina)
+- [Política] Kennedy Barros é reconduzido à presidência do TCE-PI para o biênio 2027-2028 (Teresina)</description>
+      <pubDate>Sat, 21 Nov 2026 11:01:31 +0000</pubDate>
+      <guid isPermaLink="false">teresina-daily-2026-11-21</guid>
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1304640" type="audio/mpeg" />
+      <itunes:author>Teresina Daily Pulse</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+{
+  "guid": "teresina-daily-2026-11-21",
+  "published_at": "2026-11-21T08:01:31.225913-03:00",
+  "episode_title": "Teresina Daily Pulse - Sábado, 21 de novembro de 2026",
+  "mp3_filename": "teresina-daily-2026-11-21.mp3",
+  "file_size_bytes": 1304640,
+  "audio_script": "Olá, ouvinte! Seja bem-vindo ao Teresina Daily Pulse deste sábado, 21 de novembro de 2026. Vamos aos principais fatos que movimentam a capital e o estado do Piauí. Começamos com a economia. O pagamento do décimo terceiro salário traz expectativa positiva para o comércio de Teresina e de todo o estado. Segundo levantamento do Departamento Intersindical de Estatística e Estudos Socioeconômicos, cerca de um milhão e duzentos e cinquenta mil trabalhadores devem receber o benefício, injetando aproximadamente três bilhões e cem milhões de reais na economia piauiense neste fim de ano. No setor de abastecimento, o consumidor que vai às compras na Central de Abastecimento percebeu um recuo no preço do tomate. O quilo do fruto, que chegou a custar em média doze reais nas semanas anteriores, agora é negociado na média de oito reais. A queda reflete o encarecimento logístico, já que o produto consumido na capital vem majoritariamente dos estados da Bahia e do Ceará. Na segurança pública, a Polícia Militar prendeu na manhã de ontem um homem identificado como Moisés dos Santos, apontado como suspeito de assaltar um motorista em um posto de combustíveis localizado na avenida Doutor Nicanor Barreto, no bairro Vale Quem Tem, zona Leste de Teresina. Imagens de câmeras de segurança registraram a ação em que o suspeito abordou a vítima para levar um cordão de ouro. Ainda no âmbito policial, a Delegacia de Inhuma informou que o investigado Angelo Marinho foi indiciado por homicídio duplamente qualificado pela morte do mototaxista Orlando de Sousa Vieira, ocorrida no último dia nove de novembro na cidade de Ipiranga do Piauí. O suspeito permanece preso preventivamente. Nas instituições e serviços públicos, a Ordem dos Advogados do Brasil, Seccional Piauí, solicitou à Justiça Federal no Piauí prioridade na análise de pedidos de levantamento de valores e expedição de alvarás antes do recesso forense. A medida visa garantir a liberação rápida de recursos para aposentados, pensionistas e pessoas com deficiência. Na administração municipal, a Prefeitura de Teresina oficializou o Regimento Interno da Corregedoria da Guarda Civil Municipal. O Decreto número vinte e nove mil duzentos e três, assinado pelo prefeito Sílvio Mendes, estabelece as diretrizes para fiscalização e apuração de procedimentos disciplinares da corporação. Em relação ao clima e ao meio ambiente, a atualização do Monitor da Seca indicou que o Piauí registrou estiagem em todo o seu território no mês de outubro. Houve avanço de seca moderada e grave em regiões específicas, embora chuvas recentes já comecem a atenuar a situação em municípios da região Sul do estado. No cenário político e judiciário, a Terceira Vara Federal de Teresina revogou a prisão preventiva de Francisco das Chagas, conhecido como Chico Trader, que é investigado por um esquema de fraudes com falsas operações na bolsa de valores que teria movimentado mais de seiscentos milhões de reais. E o Tribunal de Contas do Estado do Piauí elegeu sua nova Mesa Diretora para o biênio de dois mil e vinte e sete a dois mil e vinte e oito, reconduzindo o conselheiro Kennedy Barros à presidência da Corte. Para fechar o nosso giro esportivo, o Flamengo do Piauí confirmou a contratação de Almir Dionísio como o novo executivo de futebol do clube. Com passagens de destaque por equipes locais, o profissional desembarca em Teresina neste domingo para iniciar o planejamento e a montagem do elenco rubro-negro para a próxima temporada, marcada pelo retorno do clube à elite do futebol piauiense. O Teresina Daily Pulse fica por aqui. Tenha um excelente sábado e continue acompanhando a nossa programação.",
+  "segments": [
+    {
+      "category": "Economia",
+      "location": "Teresina",
+      "headline": "Pagamento do 13º salário injetará R$ 3,1 bilhões no Piauí",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Vale Quem Tem",
+      "headline": "Polícia Militar prende suspeito de roubar colar e atirar em segurança",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Economia",
+      "location": "Teresina",
+      "headline": "Preço do tomate cai na Ceasa, mas segue elevado",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Flamengo-PI anuncia Almir Dionísio como novo executivo de futebol",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Ipiranga do Piauí",
+      "headline": "Mototaxista é indiciado por homicídio duplamente qualificado",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Teresina",
+      "headline": "OAB-PI cobra prioridade na liberação de alvarás para aposentados",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Prefeitura regulamenta regimento interno da Corregedoria da Guarda Municipal",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Saúde",
+      "location": "Piauí",
+      "headline": "Monitor da Seca aponta melhoria no Sul, mas desafios persistem no estado",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Teresina",
+      "headline": "Justiça revoga prisão de suspeito em esquema de falsas operações financeiras",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Teresina",
+      "headline": "Kennedy Barros é reconduzido à presidência do TCE-PI para o biênio 2027-2028",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
