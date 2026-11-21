@@ -1,0 +1,90 @@
+{
+  "guid": "teresina-daily-2026-11-21",
+  "published_at": "2026-11-21T09:06:02.042272-03:00",
+  "episode_title": "Teresina Daily Pulse – Sábado, 21 de novembro de 2026",
+  "mp3_filename": "teresina-daily-2026-11-21.mp3",
+  "file_size_bytes": 1359648,
+  "audio_script": "Bom dia, ouvintes do Teresina Daily Pulse. Hoje é sábado, 21 de novembro de 2026, e vamos ao resumo das principais notícias que impactam nossa cidade e o estado. Primeiro, a Justiça do Piauí concluiu dois julgamentos no Tribunal do Júri em Simões, no Sul do estado. Martinho Júlio de Araújo foi condenado a 28 anos de prisão por dois homicídios duplamente qualificados, recebendo penas de 15 e 13 anos. O caso reforça a atuação rigorosa da Justiça em casos de violência grave. Passando para a economia, o Departamento Intersindical de Estatística e Estudos Socioeconômicos divulgou que o pagamento do 13º salário deve injetar quase R$ 3,1 bilhões na economia piauiense. Aproximadamente 1,25 milhão de trabalhadores receberão o benefício, impulsionando o consumo, especialmente nos comércios de Teresina, que já se preparam para a temporada de fim de ano. No campo ambiental, o Programa ProVerde, coordenado pela Semarh, ultrapassou a marca de quatro milhões de mudas distribuídas. Desde 2023, mais de 4,02 milhões de mudas foram entregues aos 224 municípios do estado, fortalecendo a cobertura vegetal, a recuperação de áreas degradadas e o combate à desertificação. Em esporte, o Flamengo-PI anunciou a chegada de Almir Dionísio como novo executivo de futebol. O profissional, com passagem pelo River-PI e Piauí Esporte Clube, deve desembarcar em Teresina neste domingo para planejar a montagem do elenco da próxima temporada, quando o clube volta à elite do futebol piauiense. Ainda na pauta de segurança, a Polícia Civil de Ipiranga do Piauí indiciou Angelo Marinho por homicídio duplamente qualificado. O crime, ocorrido em 9 de novembro, resultou na morte do mototaxista Orlando de Sousa Vieira. O suspeito permanece preso preventivamente enquanto as investigações prosseguem. A Ordem dos Advogados do Brasil, Seccional Piauí, entrou com pedido à Justiça Federal para que haja prioridade na análise de pedidos de levantamento de valores e na expedição de alvarás antes do recesso forense. A medida visa agilizar a liberação de recursos para aposentados, pensionistas, pessoas com deficiência e advogados, reduzindo a espera em processos judiciais. Na esfera municipal, a Prefeitura de Teresina aprovou o Regimento Interno da Corregedoria da Guarda Civil Municipal, publicado no Diário Oficial nesta quinta-feira. O decreto estabelece normas para fiscalização, investigação de irregularidades e procedimentos disciplinares dentro da corporação, reforçando a transparência e o controle interno. Sobre a seca que ainda afeta o estado, o Monitor da Seca apontou que, embora as chuvas recentes tenham trazido alívio ao Sul do Piauí, o quadro geral permanece crítico, com áreas ainda em situação de seca moderada a grave. Autoridades continuam acompanhando os indicadores para definir novas ações de mitigação. No feriado da Consciência Negra, celebrado nesta sexta-feira, 20 de novembro, bancos e agências dos Correios permaneceram fechados em Teresina. O comércio, supermercados e shoppings funcionam em horários diferenciados, permitindo que a população aproveite o dia sem comprometer as compras essenciais. Por fim, um relatório da Agência Municipal de Regulação de Serviços Públicos revelou que duas estações de tratamento de esgoto de Teresina lançaram poluentes acima do permitido no Rio Poti, resultando em morte de peixes e reclamações de pescadores. O prefeito relacionou o problema à presença de aguapés e está buscando soluções junto à concessionária para melhorar a qualidade do efluente. Estas foram as principais notícias de hoje. Continue conosco para mais informações ao longo do dia.",
+  "segments": [
+    {
+      "category": "Segurança",
+      "location": "Simões, Sul do Piauí",
+      "headline": "Homem condenado a 28 anos por dois homicídios em Simões",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Economia",
+      "location": "Piauí",
+      "headline": "13º salário deve injetar R$ 3,1 bilhões na economia piauiense",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Todo o estado do Piauí",
+      "headline": "Programa ProVerde supera 4 milhões de mudas distribuídas no Piauí",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Almir Dionísio assume executivo de futebol do Flamengo-PI",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Ipiranga do Piauí",
+      "headline": "Mototaxista é indiciado por homicídio de colega em Ipiranga do Piauí",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Piauí",
+      "headline": "OAB-PI pede prioridade na liberação de valores para aposentados",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Teresina regulamenta atuação da Corregedoria da Guarda Municipal",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Sul do Piauí",
+      "headline": "Chuvas aliviam seca no Sul do Piauí, mas estado ainda em situação crítica",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Bancos e Correios fecham no feriado da Consciência Negra; comércio funciona em horário diferenciado",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Saúde",
+      "location": "Teresina (Rio Poti)",
+      "headline": "Estações de tratamento de esgoto de Teresina lançam poluentes acima do permitido no Rio Poti",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
