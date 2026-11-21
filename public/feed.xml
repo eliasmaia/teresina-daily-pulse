@@ -6,28 +6,32 @@
     <language>pt-BR</language>
     <description>Boletim diário automatizado com as principais notícias de Teresina e do Piauí.</description>
     <itunes:author>Elias Moraes</itunes:author>
+    <itunes:image href="https://eliasmaia.github.io/teresina-daily-pulse/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Elias Moraes</itunes:name>
+      <itunes:email>seu-email@dominio.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Teresina Daily Pulse – Sábado, 21 de novembro de 2026</title>
-      <description>Teresina Daily Pulse – Sábado, 21 de novembro de 2026
+      <title>Teresina Daily Pulse – sábado, 21 de novembro de 2026</title>
+      <description>Teresina Daily Pulse – sábado, 21 de novembro de 2026
 
 Destaques desta edição:
-- [Segurança] Homem condenado a 28 anos por dois homicídios em Simões (Simões, Sul do Piauí)
-- [Economia] 13º salário deve injetar R$ 3,1 bilhões na economia piauiense (Piauí)
-- [Infraestrutura] Programa ProVerde supera 4 milhões de mudas distribuídas no Piauí (Todo o estado do Piauí)
-- [Cidade] Almir Dionísio assume executivo de futebol do Flamengo-PI (Teresina)
-- [Segurança] Mototaxista é indiciado por homicídio de colega em Ipiranga do Piauí (Ipiranga do Piauí)
-- [Política] OAB-PI pede prioridade na liberação de valores para aposentados (Piauí)
-- [Cidade] Teresina regulamenta atuação da Corregedoria da Guarda Municipal (Teresina)
-- [Infraestrutura] Chuvas aliviam seca no Sul do Piauí, mas estado ainda em situação crítica (Sul do Piauí)
-- [Cidade] Bancos e Correios fecham no feriado da Consciência Negra; comércio funciona em horário diferenciado (Teresina)
-- [Saúde] Estações de tratamento de esgoto de Teresina lançam poluentes acima do permitido no Rio Poti (Teresina (Rio Poti))</description>
-      <pubDate>Sat, 21 Nov 2026 12:06:02 +0000</pubDate>
+- [Economia] Desemprego e informalidade são maiores entre população preta e parda no Piauí (Estado do Piauí)
+- [Esporte] Atlético Piauiense anuncia Juliana Mojeszczyk como nova técnica da equipe feminina (Teresina)
+- [Cidade] Piauí em alerta de tempestade com risco de granizo (Estado do Piauí)
+- [Infraestrutura] Programa ProVerde ultrapassa 4 milhões de mudas distribuídas nos 224 municípios (Estado do Piauí)
+- [Segurança] Martinho Júlio de Araújo condenado a 28 anos por dois homicídios em Simões (Simões, Sul do Piauí)
+- [Segurança] Polícia Militar apreende motocicleta com indícios de adulteração em Pio IX (Pio IX)
+- [Infraestrutura] Curimatá receberá novo terminal rodoviário de 1.195 m² (Curimatá)
+- [Infraestrutura] Águas do Piauí inicia perfuração de poço para ampliar oferta de água em Itainópolis (Itainópolis)
+- [Saúde] Estações de tratamento de esgoto de Teresina lançam poluentes acima do permitido no Rio Poti (Teresina)</description>
+      <pubDate>Sat, 21 Nov 2026 17:30:45 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-21</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1359648" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1338624" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
