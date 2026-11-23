@@ -1,0 +1,82 @@
+{
+  "guid": "teresina-daily-2026-11-23",
+  "published_at": "2026-11-23T07:00:40.005383-03:00",
+  "episode_title": "Teresina Daily Pulse – Segunda‑feira, 23 de novembro de 2026",
+  "mp3_filename": "teresina-daily-2026-11-23.mp3",
+  "file_size_bytes": 1232496,
+  "audio_script": "Bom dia, ouvintes do Teresina Daily Pulse. Hoje é segunda‑feira, 23 de novembro de 2026, e vamos ao resumo das principais notícias que impactam a nossa cidade e o estado. Primeiro, no âmbito da segurança pública, Silvestre Rufino de Sousa será julgado pelo Tribunal do Júri no dia 4 de dezembro, acusado de tentar matar duas mulheres ao incendiar três casas no Loteamento Morro Alegre, na zona Sudeste de Teresina. A sessão está marcada para as 8h30 na 2ª Vara do Tribunal Popular do Júri, no Fórum Cível e Criminal Desembargador Joaquim de Sousa Neto. Seguimos com outra ocorrência trágica: o jornalista Rodrigo Oliveira, da Vale TV, morreu na tarde de domingo, 22, enquanto participava de uma prova de ciclismo em São Raimundo Nonato, no sul do estado. Ainda não há confirmação oficial da causa, mas a suspeita inicial é um mal súbito. No clima, o Instituto Nacional de Meteorologia divulgou dois alertes para o Piauí a partir de hoje. Há risco de tempestades intensas no sudoeste, com chuvas de até 30 milímetros por hora e possibilidade de granizo, além de ventos de 40 a 60 km/h. Nas regiões Sudeste, Centro‑Norte e Norte, o alerta indica baixa umidade, o que pode agravar o risco de incêndios. Falando em incêndios, uma mulher identificada apenas como Francisca é suspeita de ter incendiado a casa do ex‑companheiro no povoado Belém, zona rural de Cocal dos Alves, no norte do estado, no sábado passado. Não houve feridos, mas o fogo chegou a preocupar os moradores da região. Na zona Sul de Teresina, um homem alterado rompeu o forro de um quarto de motel, subiu ao telhado e precisou ser contido pela Polícia Militar, que utilizou um taser para imobilizá‑lo. Segundo a PM, ele estava acompanhado de uma mulher e havia consumido entorpecentes no local. Em outra frente de combate ao crime, o Tribunal de Justiça do Piauí emitiu alerta sobre golpistas que se passam por gestor do 6º Juizado Especial Cível de Teresina. Eles entram em contato via WhatsApp, usando o nome de Bruno Dantas, e tentam obter dados pessoais e bancários de pessoas com processos na justiça. A população deve desconfiar de solicitações de pagamento ou transferência de valores. No âmbito animal, a cadelinha Letícia foi encontrada com os órgãos internos expostos no bairro São Pedro, em Teresina, na noite de sábado. A Polícia Militar recebeu a denúncia e confirmou que se trata de crime de maus‑tratos, possivelmente causado por arma branca. Por fim, no trânsito, um jovem identificado como Felipe Emanuel Dias Melo perdeu o controle da motocicleta ao tentar ultrapassar outro veículo na madrugada de domingo, 22, na Rua Lino Rodrigues, em Santo Antônio de Lisboa, Sul do Piauí, e faleceu no local. Testemunhas relataram que a tentativa de ultrapassagem foi o ponto de partida do acidente. Encerrando, a cultura local segue em alta: o XXVI Festival de Bandas, com entrada gratuita, começa nesta quarta‑feira, 25, no Palácio da Música, em Teresina, e traz 17 atrações piauienses, incluindo a Banda Maestro Elton Oliveira e a Orquestra Jovem de União. São eventos que reforçam a vida cultural da nossa capital. Este foi o Teresina Daily Pulse. Fique atento às próximas edições e tenha um excelente dia.",
+  "segments": [
+    {
+      "category": "Segurança",
+      "location": "Loteamento Morro Alegre, Teresina",
+      "headline": "Silvestre Rufino de Sousa vai a júri por tentativa de homicídio em Morro Alegre",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "São Raimundo Nonato, Piauí",
+      "headline": "Jornalista Rodrigo Oliveira morre durante prova de ciclismo em São Raimundo Nonato",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Estado do Piauí",
+      "headline": "Inmet emite alertas de chuva, granizo e baixa umidade para o Piauí",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Belém, Cocal dos Alves, Norte do Piauí",
+      "headline": "Mulher suspeita de incendiar casa do ex em Cocal dos Alves",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Zona Sul de Teresina",
+      "headline": "Homem causa danos em motel da zona Sul de Teresina e é contido pela PM",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "6º Juizado Especial Cível, Teresina",
+      "headline": "TJ‑PI alerta sobre golpistas que se passam por gestor do 6º Juizado Especial Cível",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "São Pedro, Teresina",
+      "headline": "Cadela Letícia é resgatada com órgãos expostos no bairro São Pedro, Teresina",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Santo Antônio de Lisboa, Piauí",
+      "headline": "Jovem morre em acidente de moto ao tentar ultrapassar outro veículo em Santo Antônio de Lisboa",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Palácio da Música, Teresina",
+      "headline": "Festival de Bandas reúne 17 atrações gratuitas no Palácio da Música",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
