@@ -1,0 +1,88 @@
+{
+  "guid": "teresina-daily-2026-11-22",
+  "published_at": "2026-11-22T07:00:39.742628-03:00",
+  "episode_title": "Teresina Daily Pulse: Alerta de tempestade, condenações no litoral e novidades no esporte local",
+  "mp3_filename": "teresina-daily-2026-11-22.mp3",
+  "file_size_bytes": 1228320,
+  "audio_script": "Olá, bom dia! Você está ouvindo o Teresina Daily Pulse deste domingo, 22 de novembro de 2026. Trazemos agora os principais fatos que movimentam o Piauí nesta manhã. Começamos com a editoria de segurança pública. Três homens foram condenados pelo assassinato de Nathan de Sampaio Lira, de 32 anos, morto a tiros enquanto dormia em uma rede na orla da Praia da Pedra do Sal, no litoral do Piauí. O julgamento ocorreu em Parnaíba. Airton Gaspar do Nascimento e José Pedro da Silva Neto receberam penas de 22 anos, dois meses e 23 dias de reclusão. Já Ezequiel da Silva Santos foi condenado a 15 anos, seis meses e 20 dias. Ainda na segurança, em Castelo do Piauí, um homem foi preso em flagrante suspeito de abusar sexualmente da enteada, uma menina de sete anos diagnosticada com autismo. A denúncia foi feita pela própria mãe após flagrar o crime. O suspeito foi encaminhado à Delegacia de Polícia Civil de Campo Maior. Em Picos, a ação rápida da Polícia Militar evitou uma tragédia em uma ocorrência de violência doméstica. Um homem foi preso suspeito de agredir e ameaçar a companheira de morte, após a filha de nove anos do casal pedir socorro aos policiais por meio de um gesto silencioso com as mãos. Já no município de Pio IX, um jovem de 19 anos foi detido suspeito de vender cocaína no banheiro de um bar no centro da cidade. Na mesma cidade, a Polícia Militar apreendeu uma motocicleta sem placa e com sinais de adulteração e modificações no escapamento durante patrulhamento ostensivo. No esporte, novidade no futebol feminino piauiense. O Atlético Piauiense anunciou Juliana Mojeszczyk como a nova técnica da equipe. A treinadora chega com passagens por competições nacionais e internacionais, tendo conquistado o terceiro lugar na Copa Libertadores Feminina e no Campeonato Brasileiro A1 em 2021, além de passagens pelo futebol sul-americano. Nos dados econômicos e sociais, o Instituto Brasileiro de Geografia e Estatística divulgou o estudo Desigualdades sociais por cor ou raça no Brasil, apontando que a população preta e parda enfrenta condições mais desfavoráveis no mercado de trabalho do Piauí, registrando maior taxa de desocupação e índice de informalidade superior ao da população branca. Na saúde, uma família do município de Paes Landim denunciou possível negligência no atendimento do Hospital Regional Tibério Nunes, em Floriano. Segundo os familiares, a gestante aguardou cerca de 20 horas entre o rompimento da bolsa e a realização da cesárea após a morte de um recém-nascido. O caso segue sob apuração. Em Teresina, a causa animal precisa de apoio. A Associação Piauiense de Proteção e Amor aos Animais abriga mais de 300 cães e gatos resgatados de situações de abandono e maus-tratos. A instituição enfrenta um gasto mensal de cem mil reais e depende de doações para manter as atividades. Para fechar, atenção redobrada com o tempo. O Instituto Nacional de Meteorologia emitiu um alerta de perigo potencial para tempestades que segue válido até o fim deste domingo. Mais de 60 municípios do Piauí estão sob aviso, com previsão de chuvas intensas, ventos de até 60 quilômetros por hora e possibilidade de queda de granizo. Continue acompanhando a nossa programação local. Tenha um excelente domingo.",
+  "segments": [
+    {
+      "category": "Segurança",
+      "location": "Praia da Pedra do Sal",
+      "headline": "Trio é condenado a até 22 anos por matar homem enquanto dormia em rede no litoral do Piauí",
+      "sources": [
+        "Cidade Verde",
+        "G1 Piauí",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Castelo do Piauí",
+      "headline": "Padrasto é preso suspeito de abusar de menina autista de 7 anos",
+      "sources": [
+        "Cidade Verde",
+        "G1 Piauí",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Picos",
+      "headline": "Menina pede socorro com gesto silencioso e pai é preso por agredir mãe",
+      "sources": [
+        "Cidade Verde",
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Pio IX",
+      "headline": "Jovem é detido suspeito de vender cocaína em banheiro de bar e PM apreende moto adulterada",
+      "sources": [
+        "Cidade Verde",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Esporte",
+      "location": "Teresina",
+      "headline": "Atlético Piauiense anuncia Juliana Mojeszczyk como nova técnica da equipe feminina",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Economia",
+      "location": "Piauí",
+      "headline": "Estudo do IBGE aponta que população preta e parda tem mais desemprego e informalidade no estado",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Saúde",
+      "location": "Floriano",
+      "headline": "Família denuncia espera de 20 horas por parto no Hospital Regional Tibério Nunes após morte de recém-nascido",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Abrigo da Associação Piauiense de Proteção e Amor aos Animais acolhe mais de 300 animais e busca doações",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Piauí",
+      "headline": "Inmet emite alerta de perigo potencial para tempestades, ventos fortes e granizo em mais de 60 municípios",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
