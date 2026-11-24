@@ -1,7 +1,7 @@
-name: Teresina Daily Pulse - Pipeline Diário
+name: Teresina Daily Pulse - Daily Pipeline
 
 on:
-  workflow_dispatch: # Disparado manualmente ou via cron-job.org (GitHub API)
+  workflow_dispatch: # Triggered manually or via cron-job.org (GitHub API)
 
 permissions:
   contents: write
@@ -17,44 +17,49 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Configurar Python 3.12
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
 
-      - name: Instalar dependências
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install --disable-pip-version-check -r requirements.txt
 
-      - name: Executar pipeline de notícias, TTS e RSS
+      - name: Run news, TTS, and RSS pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
           PODCAST_OWNER_EMAIL: ${{ vars.PODCAST_OWNER_EMAIL }}
-          
         run: python main.py
-      - name: Salvar episódios gerados no repositório
+
+      - name: Commit generated episodes to repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p public
           git add public/
-          git diff --staged --quiet || git commit -m "chore: publica episódio diário $(date -u +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "chore: publish daily episode $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push
 
-      - name: Configurar GitHub Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Empacotar pasta public/ para o Pages
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload public directory as Pages artifact
+        uses: actions/upload-pages-artifact@v4
         with:
           path: "public"
 
-      - name: Publicar no GitHub Pages
+      - name: Wait for artifact metadata propagation
+        run: sleep 5
+
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
