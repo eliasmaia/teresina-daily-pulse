@@ -1,0 +1,75 @@
+{
+  "guid": "teresina-daily-2026-11-25",
+  "published_at": "2026-11-25T07:00:32.542623-03:00",
+  "episode_title": "Teresina Daily Pulse: Reforma da Previdência, Mudança na Posse e Operações Policiais no Piauí",
+  "mp3_filename": "teresina-daily-2026-11-25.mp3",
+  "file_size_bytes": 1213488,
+  "audio_script": "Olá, muito bom dia para você que nos acompanha nesta quarta-feira, vinte e cinco de novembro de 2026. Chega ao ar mais uma edição do Teresina Daily Pulse, trazendo um panorama completo com as principais notícias de Teresina e de todo o estado do Piauí. Começamos os destaques de hoje pela política. Durante passagem por Teresina, o ministro da Previdência Social, Wolney Queiroz, descartou a possibilidade de uma nova reforma previdenciária no próximo mandato do presidente Luiz Inácio Lula da Silva. O ministro afirmou que o governo não pretende alterar direitos de trabalhadores, aposentados e pensionistas, embora tenha reconhecido os desafios fiscais decorrentes do déficit bilionário e do aumento da expectativa de vida da população. Ainda no cenário político e legislativo, a Assembleia Legislativa do Piauí aprovou uma alteração na Constituição Estadual que estabelece o dia seis de janeiro como a nova data para a posse do governador e do vice-governador, medida que passa a valer a partir de 2027 para o segundo mandato de Rafael Fonteles, adequando a legislação à emenda constitucional federal. Além disso, o Governo do Piauí enviou à Assembleia Legislativa um projeto de lei que propõe a extinção de um mil e duzentos cargos e funções de confiança no Poder Executivo, promovendo uma ampla reorganização estrutural nas secretarias estaduais. No campo da segurança pública e investigações, a Polícia Civil do Piauí deflagrou a operação Ilusão Premiada, cumprindo mandados de busca e apreensão em Simões, no Piauí, e em Araripina, em Pernambuco. A investigação apura crimes de exploração ilegal de jogos de azar, estelionato eletrônico e lavagem de dinheiro contra um influenciador digital e sua companheira, que teriam movimentado mais de dois milhões e setecentos mil reais. Em Luzilândia, o Tribunal do Júri condenou Raimundo José dos Santos a mais de trinta e um anos de prisão pelo crime de feminicídio cometido contra a companheira Natalane Silva da Silva. E na cidade de Altos, um homem foi preso pela Polícia Civil após ser filmado por câmeras de segurança durante um assalto. Na mesma ação policial na região, a cadela K9 Vick, do Núcleo de Operação com Cães, ajudou a localizar mais de duzentas porções de drogas e ganhou um saco de bolinhas de tênis como recompensa pelo trabalho. Dando destaque ao patrimônio cultural e ambiental, a Secretaria de Estado do Meio Ambiente e Recursos Hídricos identificou um novo sítio arqueológico no Parque Estadual Cânion do Rio Poti, localizado em Buriti dos Montes. A área, na comunidade Conceição dos Marreiros, abriga gravuras rupestres inéditas com representações de animais, figuras humanas e elementos solares gravados em grandes blocos de rocha. Para quem busca serviço e oportunidades na capital, começa hoje e segue até sábado, na Universidade Federal do Piauí, em Teresina, a décima primeira edição da Feira e Seminário Nacional da Agrobiodiversidade e Sementes Crioulas. O evento é aberto ao público e debate alternativas para reduzir custos na agricultura familiar por meio da preservação de sementes tradicionais. Por fim, o estado lamenta o falecimento de José Pereira de Brito, conhecido como Zequinha Brito, ex-vice-prefeito de Valença do Piauí, que morreu aos noventa e um anos em Goiânia, onde visitava familiares. O Teresina Daily Pulse de hoje encerra por aqui. Continue acompanhando nossa programação local para mais atualizações ao longo do dia.",
+  "segments": [
+    {
+      "category": "Política",
+      "location": "Teresina",
+      "headline": "Ministro da Previdência descarta reforma, mas admite desafios com déficit",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Teresina",
+      "headline": "Alepi aprova mudança na data de posse do governador para 6 de janeiro a partir de 2027",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Simões",
+      "headline": "Polícia Civil deflagra operação contra influenciador investigado por movimentar R$ 2,7 milhões",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Teresina",
+      "headline": "Governo do Piauí envia à Alepi projeto para extinguir 1.200 cargos e reorganizar gestão",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Buriti dos Montes",
+      "headline": "Novas gravuras rupestres são identificadas no Parque Estadual Cânion do Rio Poti",
+      "sources": [
+        "Cidade Verde",
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Luzilândia",
+      "headline": "Réu é condenado a mais de 31 anos de prisão pelo Tribunal do Júri por feminicídio",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Universidade Federal do Piauí sedia feira nacional sobre sementes crioulas",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Altos",
+      "headline": "Polícia Civil prende suspeito de assalto e cadela K9 Vick é premiada com bolinhas",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
