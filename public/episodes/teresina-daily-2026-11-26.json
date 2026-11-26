@@ -1,0 +1,82 @@
+{
+  "guid": "teresina-daily-2026-11-26",
+  "published_at": "2026-11-26T07:00:36.042999-03:00",
+  "episode_title": "Teresina Daily Pulse – Quinta, 26 de novembro de 2026",
+  "mp3_filename": "teresina-daily-2026-11-26.mp3",
+  "file_size_bytes": 1549584,
+  "audio_script": "Bom dia, ouvintes do Teresina Daily Pulse. Hoje é quinta-feira, 26 de novembro de 2026, e vamos ao resumo das principais notícias que marcaram a nossa capital e o estado nas últimas 24 horas. Começamos com um caso grave de violência na zona Leste. Na noite de quarta-feira, um homem identificado como Júlio Olegário Neto foi morto a tiros dentro de sua residência na Avenida Brasil, no bairro Cidade Leste. Segundo o 29º Batalhão da Polícia Militar, dois indivíduos chegaram de motocicleta, abriram fogo e fugiram. A Força Tática foi acionada e segue investigando o caso. Essa tragédia reforça a necessidade de reforço nas patrulhas da região. Falando em segurança, a Agência Brasileira de Inteligência divulgou, em parceria com o Fórum Brasileiro de Segurança Pública, um relatório que aponta o Piauí como ponto de disputa entre quatro facções criminosas e como corredor logístico para o tráfico de drogas. O estudo, baseado em dados de junho de 2025, destaca o papel estratégico do estado na dinâmica do crime organizado no Nordeste. As autoridades estaduais reiteram o compromisso de intensificar o combate ao tráfico e à violência. Na esfera judicial, o Tribunal do Júri de Uruçuí, no município de Baixa Grande do Ribeiro, condenou a 77 anos de prisão Jhon Lennon dos Santos Abreu, mandante da chamada “Chacina dos Gaúchos”. O crime, que vitimou três agricultores da família Dalcin, foi julgado nesta terça-feira e resultou em pena máxima para o responsável. A decisão demonstra a firmeza do Judiciário em casos de homicídio qualificado. Passando para a cultura e infraestrutura, a Praça Pedro II, um dos principais espaços culturais do Centro de Teresina, iniciará uma reforma de mais de três milhões e quinhentos mil reais. A obra, coordenada pela Secretaria de Estado da Cultura, visa melhorar a estrutura, ampliar a acessibilidade e fortalecer o corredor cultural da capital. A expectativa é que a praça volte a receber o público ainda este ano, com condições mais seguras e confortáveis. Em notícias de Brasília, o ex-senador piauiense Wellington Dias reassumiu, nesta quarta-feira, o comando do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome. A nomeação foi oficializada por decreto presidencial e marca o retorno do dirigente ao cargo após breve afastamento para tratar de compromissos no Senado. O Ministério destacou que continuará as ações de combate à fome e apoio às famílias em situação de vulnerabilidade. No cenário cinematográfico, o filme “Babaçu Love”, dirigido por Cícero Filho, chega às salas de cinema do Norte e Nordeste a partir de 3 de dezembro, com pré-estreia em Teresina no dia 2. A produção, gravada no Piauí e no Maranhão, celebra a cultura forrozeira e a luta das quebradeiras de coco babaçu, trazendo à tela a riqueza das tradições regionais. Também nesta semana, o Grupo Cidade Verde lançou a campanha Natal Prateado, que reúne histórias de vida de pessoas com mais de sessenta anos em todo o Piauí. A iniciativa, divulgada nesta quarta, busca valorizar a experiência dos idosos e conectar seus relatos ao espírito natalino, reforçando a importância da inclusão social na terceira idade. No campo da solidariedade, a campanha Prato Cheio 2026 começou a receber doações de alimentos não perecíveis no Teresina Shopping a partir de hoje, 23 de novembro. São sete pontos de arrecadação que atendem a Teresina, Floriano, Parnaíba e Picos, beneficiando nove instituições de assistência social espalhadas pelo estado. A ação conta com o apoio do Teresina S e reforça o combate à insegurança alimentar. Por fim, a Assembleia Legislativa do Piauí recebeu o Projeto de Lei nº 90/2026, que propõe a extinção de cerca de 1,2 mil cargos e funções de confiança na administração estadual. O texto, que ainda será analisado, tem como objetivo reduzir gastos públicos e otimizar a estrutura de gestão. A proposta segue em debate e deve ser votada nas próximas sessões. Essas foram as principais notícias de hoje. Fiquem conosco para mais informações ao longo do dia. Até a próxima, e boa tarde a todos.",
+  "segments": [
+    {
+      "category": "Segurança",
+      "location": "Cidade Leste",
+      "headline": "Homem é morto a tiros em residência na Avenida Brasil, zona Leste",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Piauí",
+      "headline": "ABIN aponta Piauí como rota de disputa entre facções e corredor de tráfico",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Baixa Grande do Ribeiro, Sul do Piauí",
+      "headline": "Mandante da “Chacina dos Gaúchos” recebe 77 anos de prisão",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Centro, Teresina",
+      "headline": "Praça Pedro II recebe reforma de R$ 3,5 milhões para ampliar acessibilidade",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Política",
+      "location": "Brasília",
+      "headline": "Wellington Dias reassume comando do Ministério do Desenvolvimento e Assistência Social",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Filme “Babaçu Love” estreia em Teresina em pré-estreia no dia 2 de dezembro",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Piauí",
+      "headline": "Cidade Verde lança campanha Natal Prateado com histórias de 60+",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina Shopping, Teresina",
+      "headline": "Campanha Prato Cheio 2026 inicia coleta de alimentos no Teresina Shopping",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Economia",
+      "location": "Piauí",
+      "headline": "Projeto de Lei prevê extinção de 1,2 mil cargos de confiança no governo do Piauí",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
