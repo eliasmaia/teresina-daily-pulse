@@ -1,0 +1,108 @@
+{
+  "guid": "teresina-daily-2026-11-27",
+  "published_at": "2026-11-27T07:00:36.758890-03:00",
+  "episode_title": "Teresina Daily Pulse: Novos casos de Mpox, interdição na BR-343 e recorde mundial no esporte",
+  "mp3_filename": "teresina-daily-2026-11-27.mp3",
+  "file_size_bytes": 1373184,
+  "audio_script": "Olá, bom dia! Você está ouvindo o Teresina Daily Pulse desta sexta-feira, 27 de novembro de 2026, trazendo as principais notícias que movimentam a capital e o estado do Piauí. Começamos com um alerta da área da saúde. O painel de epidemiologia do Ministério da Saúde confirmou novos casos de Mpox no estado, elevando o total para quatro registros em 2026. Todos os pacientes são homens de Teresina, sendo três na faixa etária entre 30 e 39 anos e um de 40 anos. A Secretaria de Estado da Saúde acompanha os casos e orienta a população a ficar atenta aos sinais e sintomas da doença. Ainda sobre recursos naturais e meio ambiente, um relatório da Agência Municipal de Regulação de Serviços Públicos de Teresina apontou que o Rio Poti recebe dezoito pontos de lançamento de esgoto sem tratamento na área urbana da capital. O levantamento foi feito pela Águas de Teresina e concentra falhas principais no trecho entre a Ponte Juscelino Kubitschek e a nova ponte da Universidade Federal do Piauí. Na segurança pública e justiça, a Polícia Civil do Piauí, através do Departamento de Homicídios e Proteção à Pessoa, investiga a morte de Marcos Vinícius Lima do Nascimento, assassinado a tiros na manhã de ontem na Avenida Senador Sigefredo Pacheco, no bairro Santa Bárbara, zona Leste de Teresina. Já no interior e na comarca do Tribunal do Júri de Padre Marcos, um homem foi condenado a trinta e sete anos e seis meses de prisão pelo feminicídio de Luiza Creuza da Silva, cometido com o emprego de meio cruel. Na comarca de Teresina, a Justiça também decretou a condenação de José Serafim Araújo a quatorze anos e três meses de regime fechado pela morte de Sara Jaqueline de Araújo Castro, ocorrida em janeiro de 2016 no bairro Marquês, zona Norte da capital. No trânsito e na mobilidade urbana de Teresina, preste muita atenção: um trecho da BR-343 localizado em frente a uma empresa de ônibus, na região do Terminal de Petróleo no bairro Dirceu, zona Sudeste, foi interditado definitivamente pelo Departamento Nacional de Infraestrutura de Transportes. A alteração faz parte da implantação do Contorno Rodoviário de Teresina. Além disso, quedas de energia elétrica registradas na tarde de ontem provocaram impactos operacionais na concessionária Águas de Teresina, deixando moradores de bairros nas zonas Centro, Leste, Sudeste e Norte temporariamente sem o abastecimento regular de água. Na editoria de saúde e monitoramento ambiental, a Secretaria de Estado da Saúde realizou novas coletas de água para investigar resíduos de agrotóxicos próximos ao Riacho Esfolado, no município de Bertolínia, após o tombamento de um caminhão com defensivos agrícolas no Balneário Xixá. Em meio aos fatos do dia, Teresina lamenta o falecimento do artesão Ronaldo Teixeira dos Santos, ocorrido ontem aos 43 anos. Filho da mestre ceramista Raimundinha do Poty, ele era um dos grandes nomes da produção de cerâmica no Polo Cerâmico do Poti Velho. Em contraste com a perda cultural, a solidariedade e o esporte trazem orgulho aos piauienses. A idosa Rosa Pinto percorreu mais de duzentos e trinta quilômetros entre Novo Oriente do Piauí e Teresina para doar alimentos nos postos da campanha Prato Cheio. E no esporte internacional, a piauiense Keyla Barros conquistou duas medalhas de ouro e bateu o recorde mundial dos oitocentos metros na classe T20 durante os Jogos Pan-Americanos Virtus, realizados na cidade de Zinacantepec, no México. Para fechar o giro de notícias, o Grupo Cidade Verde lançou a campanha Natal Prateado, voltada a valorizar a população com sessenta anos ou mais no estado através de histórias de vida e resgate de sonhos. Este foi o resumo das principais informações locais para você começar o seu dia bem informado. Continue acompanhando nossa programação.",
+  "segments": [
+    {
+      "category": "Saúde",
+      "location": "Teresina",
+      "headline": "PI confirma novos casos de Mpox em Teresina e total sobe para 4",
+      "sources": [
+        "Cidade Verde",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Teresina",
+      "headline": "Rio Poti recebe esgoto sem tratamento em 18 pontos, aponta levantamento",
+      "sources": [
+        "G1 Piauí",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Bairro Santa Bárbara, Zona Leste de Teresina",
+      "headline": "Homem é assassinado a tiros em avenida na zona Leste de Teresina; DHPP investiga o caso",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Polo Cerâmico do Poti Velho, Zona Norte de Teresina",
+      "headline": "Morre Ronaldo Teixeira, destaque do artesanato no PI, aos 43 anos",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Padre Marcos",
+      "headline": "Homem é condenado a 37 anos por matar ex no Dia das Mães no Piauí",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Água Branca",
+      "headline": "Piauiense bate recorde mundial dos 800 m e conquista dois ouros",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Bairro Dirceu, Zona Sudeste de Teresina",
+      "headline": "Trecho da BR-343 é interditado na região do Dirceu; veja como fica",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Cidade Verde lança Natal Prateado e recebe cartas de 60+ com sonhos",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Saúde",
+      "location": "Bertolínia",
+      "headline": "Sesapi coleta água de riacho após derramamento de agrotóxicos",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Novo Oriente do Piauí e Teresina",
+      "headline": "Idosa percorre mais de 230 km para doar alimentos para a campanha Prato Cheio",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Teresina",
+      "headline": "Queda de energia afeta abastecimento e deixa bairros sem água em Teresina",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Bairro Marquês, Zona Norte de Teresina",
+      "headline": "Homem é condenado a 14 anos por morte de adolescente ocorrida em 2016",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
