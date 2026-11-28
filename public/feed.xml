@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Teresina Daily Pulse</title>
     <link>https://eliasmaia.github.io/teresina-daily-pulse</link>
     <language>pt-BR</language>
-    <description>Boletim diário automatizado com as principais notícias de Teresina e do Piauí.</description>
+    <description>Boletim diário automatizado com as principais noticias de Teresina e do Piauí.</description>
     <itunes:author>Elias Moraes</itunes:author>
     <itunes:image href="https://eliasmaia.github.io/teresina-daily-pulse/cover.jpg" />
     <itunes:owner>
@@ -16,7 +16,28 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Teresina Daily Pulse: Novos casos de Mpox, interdição na BR-343 e recorde mundial no esporte</title>
+      <item>Teresina Daily Pulse: Operação Cartão Fantasma, Nova Rota Portuária e o Tricampeonato no Karatê</item>
+      <description>Teresina Daily Pulse: Operação Cartão Fantasma, Nova Rota Portuária e o Tricampeonato no Karatê
+
+Destaques desta edição:
+- [Segurança] Incêndio em apartamento na zona Sul deixa uma pessoa ferida (Morada Nova)
+- [Segurança] Operação Cartão Fantasma cumpre mandados contra esquema de golpes cibernéticos (Teresina)
+- [Infraestrutura] Prefeitura de Picos divulga plano de contingência com mapeamento de áreas de risco (Picos)
+- [Infraestrutura] DNIT reforça bloqueio na BR-343 e prevê liberação de viaduto para dezembro (Dirceu)
+- [Cidade] Estudante piauiense Amanda Raquel conquista tricampeonato brasileiro de karatê (Teresina)
+- [Economia] Porto Piauí articula rota regular de cabotagem com Santa Catarina (Luís Correia)
+- [Segurança] Família cobra justiça após morte de passageiro vítima de acidente com ônibus (Vale Quem Tem)
+- [Segurança] Motorista é condenado a mais de oito anos de prisão por homicídio em trânsito (Angical do Piauí)
+- [Cidade] Comércio de Teresina registra forte movimentação durante a Black Friday (Teresina)
+- [Segurança] Dupla é presa suspeita de latrocínio contra idoso na zona rural (Parnaíba)</description>
+      <pubDate>Sat, 28 Nov 2026 10:00:37 +0000</pubDate>
+      <guid isPermaLink="false">teresina-daily-2026-11-28</guid>
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-28.mp3" length="1039680" type="audio/mpeg" />
+      <itunes:author>Teresina Daily Pulse</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <item>Teresina Daily Pulse: Novos casos de Mpox, interdição na BR-343 e recorde mundial no esporte</item>
       <description>Teresina Daily Pulse: Novos casos de Mpox, interdição na BR-343 e recorde mundial no esporte
 
 Destaques desta edição:
@@ -34,12 +55,12 @@ Destaques desta edição:
 - [Segurança] Homem é condenado a 14 anos por morte de adolescente ocorrida em 2016 (Bairro Marquês, Zona Norte de Teresina)</description>
       <pubDate>Fri, 27 Nov 2026 10:00:36 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-27</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-27.mp3" length="1373184" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-27.mp3" length="1373184" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse – Quinta, 26 de novembro de 2026</title>
+      <item>Teresina Daily Pulse – Quinta, 26 de novembro de 2026</item>
       <description>Teresina Daily Pulse – Quinta, 26 de novembro de 2026
 
 Destaques desta edição:
@@ -54,12 +75,12 @@ Destaques desta edição:
 - [Economia] Projeto de Lei prevê extinção de 1,2 mil cargos de confiança no governo do Piauí (Piauí)</description>
       <pubDate>Thu, 26 Nov 2026 10:00:36 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-26</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-26.mp3" length="1549584" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-26.mp3" length="1549584" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse: Reforma da Previdência, Mudança na Posse e Operações Policiais no Piauí</title>
+      <item>Teresina Daily Pulse: Reforma da Previdência, Mudança na Posse e Operações Policiais no Piauí</item>
       <description>Teresina Daily Pulse: Reforma da Previdência, Mudança na Posse e Operações Policiais no Piauí
 
 Destaques desta edição:
@@ -73,12 +94,12 @@ Destaques desta edição:
 - [Segurança] Polícia Civil prende suspeito de assalto e cadela K9 Vick é premiada com bolinhas (Altos)</description>
       <pubDate>Wed, 25 Nov 2026 10:00:32 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-25</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-25.mp3" length="1213488" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-25.mp3" length="1213488" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse – Segurança, Saúde e Cultura em foco nesta terça, 24/11/2026</title>
+      <item>Teresina Daily Pulse – Segurança, Saúde e Cultura em foco nesta terça, 24/11/2026</item>
       <description>Teresina Daily Pulse – Segurança, Saúde e Cultura em foco nesta terça, 24/11/2026
 
 Destaques desta edição:
@@ -92,12 +113,12 @@ Destaques desta edição:
 - [Segurança] Suspeito de homicídio de ex-companheira é preso (Santa Maria da Codipi, zona Norte, Teresina)</description>
       <pubDate>Tue, 24 Nov 2026 14:17:34 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-24</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-24.mp3" length="1292832" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-24.mp3" length="1292832" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse – Segunda‑feira, 23 de novembro de 2026</title>
+      <item>Teresina Daily Pulse – Segunda‑feira, 23 de novembro de 2026</item>
       <description>Teresina Daily Pulse – Segunda‑feira, 23 de novembro de 2026
 
 Destaques desta edição:
@@ -112,12 +133,12 @@ Destaques desta edição:
 - [Cidade] Festival de Bandas reúne 17 atrações gratuitas no Palácio da Música (Palácio da Música, Teresina)</description>
       <pubDate>Mon, 23 Nov 2026 10:00:40 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-23</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-23.mp3" length="1232496" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-23.mp3" length="1232496" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse: Alerta de tempestade, condenações no litoral e novidades no esporte local</title>
+      <item>Teresina Daily Pulse: Alerta de tempestade, condenações no litoral e novidades no esporte local</item>
       <description>Teresina Daily Pulse: Alerta de tempestade, condenações no litoral e novidades no esporte local
 
 Destaques desta edição:
@@ -132,12 +153,12 @@ Destaques desta edição:
 - [Cidade] Inmet emite alerta de perigo potencial para tempestades, ventos fortes e granizo em mais de 60 municípios (Piauí)</description>
       <pubDate>Sun, 22 Nov 2026 10:00:39 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-22</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-22.mp3" length="1228320" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-22.mp3" length="1228320" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Teresina Daily Pulse: Desemprego no Piauí, Alerta de Tempestades e Destaques do Esporte e Cidadania</title>
+      <item>Teresina Daily Pulse: Desemprego no Piauí, Alerta de Tempestades e Destaques do Esporte e Cidadania</item>
       <description>Teresina Daily Pulse: Desemprego no Piauí, Alerta de Tempestades e Destaques do Esporte e Cidadania
 
 Destaques desta edição:
@@ -152,7 +173,7 @@ Destaques desta edição:
 - [Cidade] Atlético Piauiense anuncia a contratação da técnica Juliana Mojeszczyk para comandar a equipe feminina (Piauí)</description>
       <pubDate>Sat, 21 Nov 2026 18:04:11 +0000</pubDate>
       <guid isPermaLink="false">teresina-daily-2026-11-21</guid>
-      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episodes/teresina-daily-2026-11-21.mp3" length="1281600" type="audio/mpeg" />
+      <enclosure url="https://eliasmaia.github.io/teresina-daily-pulse/episode/teresina-daily-2026-11-21.mp3" length="1281600" type="audio/mpeg" />
       <itunes:author>Teresina Daily Pulse</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

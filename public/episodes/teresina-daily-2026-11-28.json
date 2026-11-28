@@ -1,0 +1,92 @@
+{
+  "guid": "teresina-daily-2026-11-28",
+  "published_at": "2026-11-28T07:00:37.774940-03:00",
+  "episode_title": "Teresina Daily Pulse: Operação Cartão Fantasma, Nova Rota Portuária e o Tricampeonato no Karatê",
+  "mp3_filename": "teresina-daily-2026-11-28.mp3",
+  "file_size_bytes": 1039680,
+  "audio_script": "Olá, bom dia! Você está ouvindo o Teresina Daily Pulse deste sábado, 28 de novembro de 2026, trazendo um resumo completo com os principais fatos que movimentaram Teresina e o estado do Piauí nas últimas horas. Começamos com a segurança pública. Um incêndio atingiu um apartamento no terceiro andar de um prédio localizado no bairro Morada Nova, na zona Sul de Teresina, na tarde de ontem. Segundo informações do Corpo de Bombeiros, uma pessoa ficou ferida e precisou ser encaminhada a um hospital particular. As chamas danificaram dois quartos, destruindo móveis e eletrodomésticos. Ainda na área de segurança, o Departamento de Repressão aos Crimes Cibernéticos deflagrou a Operação Cartão Fantasma. O esquema investiga uma organização criminosa suspeita de aplicar golpes em lojistas utilizando cartões de crédito clonados. Entre os alvos está um dentista que negociava materiais com a quadrilha. A investigação identificou dezenas de vítimas e um prejuízo estimado em cento e cinquenta mil reais. No litoral e no interior do estado, destaque para o avanço econômico e logístico. O Porto Piauí avançou nas articulações para implantar uma rota regular de transporte marítimo de cargas entre Luís Correia e o estado de Santa Catarina, com expectativa de início das operações em 2027. Já em Picos, a Prefeitura disponibilizou para consulta pública o Plano Municipal de Contingência, mapeando vinte áreas de risco e doze mil moradores expostos. No trânsito e na mobilidade urbana da capital, o Departamento Nacional de Infraestrutura de Transportes reforçou o bloqueio em um trecho da BR-343 no Dirceu e prevê para a primeira quinzena de dezembro a liberação da rotatória do novo viaduto da zona Sudeste. O comércio de Teresina também registrou forte movimentação ontem por causa das ofertas da Black Friday, atraindo consumidores de várias regiões. Nas estradas e rodovias piauienses, a Justiça e os órgãos de segurança registraram desdobramentos importantes. Um motorista foi condenado a mais de oito anos de prisão pelo Tribunal do Júri em Regeneração, após um acidente que resultou na morte de uma pessoa em Angical do Piauí. Em Parnaíba, dois jovens foram presos suspeitos de latrocínio contra um idoso na zona rural do município. Na zona Leste de Teresina, familiares cobram justiça após a morte de um passageiro que faleceu após passar vinte e um dias internado no Hospital de Urgência de Teresina, decorrente de um acidente de trânsito na Avenida Hugo Bastos. Para fechar com uma excelente notícia do esporte, a estudante piauiense Amanda Raquel, aluna do Centro Estadual de Tempo Integral Domício Magalhães, sagrou-se tricampeã brasileira de karatê em competição realizada em Londrina, no Paraná. O boletim Teresina Daily Pulse encerra aqui. Continue acompanhando a nossa programação local e tenha um excelente sábado.",
+  "segments": [
+    {
+      "category": "Segurança",
+      "location": "Morada Nova",
+      "headline": "Incêndio em apartamento na zona Sul deixa uma pessoa ferida",
+      "sources": [
+        "Cidade Verde",
+        "Portal Clube News"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Teresina",
+      "headline": "Operação Cartão Fantasma cumpre mandados contra esquema de golpes cibernéticos",
+      "sources": [
+        "Cidade Verde",
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Picos",
+      "headline": "Prefeitura de Picos divulga plano de contingência com mapeamento de áreas de risco",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Infraestrutura",
+      "location": "Dirceu",
+      "headline": "DNIT reforça bloqueio na BR-343 e prevê liberação de viaduto para dezembro",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Estudante piauiense Amanda Raquel conquista tricampeonato brasileiro de karatê",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Economia",
+      "location": "Luís Correia",
+      "headline": "Porto Piauí articula rota regular de cabotagem com Santa Catarina",
+      "sources": [
+        "Cidade Verde"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Vale Quem Tem",
+      "headline": "Família cobra justiça após morte de passageiro vítima de acidente com ônibus",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Angical do Piauí",
+      "headline": "Motorista é condenado a mais de oito anos de prisão por homicídio em trânsito",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Cidade",
+      "location": "Teresina",
+      "headline": "Comércio de Teresina registra forte movimentação durante a Black Friday",
+      "sources": [
+        "G1 Piauí"
+      ]
+    },
+    {
+      "category": "Segurança",
+      "location": "Parnaíba",
+      "headline": "Dupla é presa suspeita de latrocínio contra idoso na zona rural",
+      "sources": [
+        "G1 Piauí"
+      ]
+    }
+  ]
+}
